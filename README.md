@@ -106,19 +106,7 @@ For script-based execution, refer to the modules in the `src/` directory.
 
 Results are saved in the `results/` folder.
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit pull requests or open issues.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 📧 Contact
 
